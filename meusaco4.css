@@ -1,5 +1,5 @@
-.toptrig { width: 0; height: 0; border-top: 450px solid #AB0936; border-left: 450px solid transparent; position: absolute; top: -2px; left:-2px; -webkit-transition: all 1s ease-in-out;-moz-transition: all 1s ease-in-out; -o-transition: all 1s ease-in-out; transition: all 1s ease-in-out;}
-.bottomtrig { width: 0; height: 0; border-bottom: 450px solid #1F1C19; border-right: 450px solid transparent; position: absolute; top:-2px; left: -2px;  -webkit-transition: all 1s ease-in-out;-moz-transition: all 1s ease-in-out; -o-transition: all 1s ease-in-out; transition: all 1s ease-in-out;}
+.toptrig { width: 0; height: 0; border-top: 20px solid #AB0936; border-left: 20px solid transparent; position: absolute; top: -2px; left:-2px; -webkit-transition: all 1s ease-in-out;-moz-transition: all 1s ease-in-out; -o-transition: all 1s ease-in-out; transition: all 1s ease-in-out;}
+.bottomtrig { width: 0; height: 0; border-bottom: 20px solid #1F1C19; border-right: 20px solid transparent; position: absolute; top:-2px; left: -2px;  -webkit-transition: all 1s ease-in-out;-moz-transition: all 1s ease-in-out; -o-transition: all 1s ease-in-out; transition: all 1s ease-in-out;}
 #trigcont {width:448px; height:448px; overflow:hidden; -webkit-transition: all 1s ease-in-out;-moz-transition: all 1s ease-in-out; -o-transition: all 1s ease-in-out; transition: all 1s ease-in-out; position: relative;}
 #trigcont:hover .toptrig { position: absolute; right:-452px; top:-450px;}
 #trigcont:hover .bottomtrig {position: absolute; top:452; left:-450px;}
